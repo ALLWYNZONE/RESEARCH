@@ -1,0 +1,23 @@
+[
+    {
+      "name": "John Doe",
+      "dob": "01/01/2000",
+      "class": "10th",
+      "m1": 90,
+      "m2": 95,
+      "i": "Pass",
+      "t": "Distinction",
+      "status": "Active"
+    },
+    {
+      "name": "Jane Doe",
+      "dob": "02/01/2000",
+      "class": "10th",
+      "m1": 80,
+      "m2": 85,
+      "i": "Pass",
+      "t": "First Class",
+      "status": "Inactive"
+    }
+  ]
+  
